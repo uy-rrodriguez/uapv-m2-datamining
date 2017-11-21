@@ -1,0 +1,106 @@
+@relation 'Glass-weka.filters.unsupervised.attribute.Remove-R3-9-weka.filters.unsupervised.instance.SubsetByExpression-E(ATT3 is \'headlamps\') or (ATT3 is \'build wind float\')'
+
+@attribute RI numeric
+@attribute Na numeric
+@attribute Type {'build wind float',headlamps}
+
+@data
+1.51793,12.79,'build wind float'
+1.51793,13.21,'build wind float'
+1.51837,13.14,'build wind float'
+1.51545,14.14,headlamps
+1.52223,13.21,'build wind float'
+1.51719,14.75,headlamps
+1.52152,13.05,'build wind float'
+1.51754,13.39,'build wind float'
+1.51683,14.56,headlamps
+1.51755,13,'build wind float'
+1.51571,12.72,'build wind float'
+1.51596,12.79,'build wind float'
+1.51797,12.74,'build wind float'
+1.51755,12.71,'build wind float'
+1.51766,13.21,'build wind float'
+1.51784,13.08,'build wind float'
+1.51753,12.57,'build wind float'
+1.51743,13.3,'build wind float'
+1.5164,14.37,headlamps
+1.51735,13.02,'build wind float'
+1.52247,14.86,headlamps
+1.52099,13.69,'build wind float'
+1.51905,13.6,'build wind float'
+1.51567,13.29,'build wind float'
+1.52213,14.21,'build wind float'
+1.5232,13.72,'build wind float'
+1.51556,13.87,headlamps
+1.51926,13.2,'build wind float'
+1.52152,13.05,'build wind float'
+1.523,13.31,'build wind float'
+1.51768,12.56,'build wind float'
+1.51215,12.99,'build wind float'
+1.51721,12.87,'build wind float'
+1.51763,12.8,'build wind float'
+1.51742,13.27,'build wind float'
+1.51779,13.21,'build wind float'
+1.5175,12.82,'build wind float'
+1.51764,12.98,'build wind float'
+1.51645,14.94,headlamps
+1.51786,12.73,'build wind float'
+1.52152,13.12,'build wind float'
+1.51514,14.85,headlamps
+1.52172,13.48,'build wind float'
+1.51732,14.95,headlamps
+1.51761,13.89,'build wind float'
+1.52365,15.79,headlamps
+1.51685,14.92,headlamps
+1.51658,14.8,headlamps
+1.51727,14.7,headlamps
+1.51898,13.58,'build wind float'
+1.51617,14.95,headlamps
+1.51911,13.9,'build wind float'
+1.51651,14.38,headlamps
+1.52315,13.44,headlamps
+1.51838,14.32,headlamps
+1.51769,12.45,'build wind float'
+1.51589,12.88,'build wind float'
+1.51748,12.86,'build wind float'
+1.51653,11.95,headlamps
+1.51623,14.14,headlamps
+1.52101,13.64,'build wind float'
+1.51763,12.61,'build wind float'
+1.52065,14.36,headlamps
+1.51768,12.65,'build wind float'
+1.51756,13.15,'build wind float'
+1.51754,13.48,'build wind float'
+1.5221,13.73,'build wind float'
+1.51784,12.68,'build wind float'
+1.51909,13.89,'build wind float'
+1.51977,13.81,'build wind float'
+1.51131,13.69,headlamps
+1.52227,14.17,'build wind float'
+1.51751,12.81,'build wind float'
+1.51508,15.15,headlamps
+1.51966,14.77,'build wind float'
+1.52172,13.51,'build wind float'
+1.51602,14.85,headlamps
+1.52213,14.21,'build wind float'
+1.51747,12.84,'build wind float'
+1.51609,15.01,headlamps
+1.52667,13.99,'build wind float'
+1.51831,14.39,headlamps
+1.51918,14.04,'build wind float'
+1.51613,13.88,headlamps
+1.52196,14.36,'build wind float'
+1.51824,12.87,'build wind float'
+1.51783,12.69,'build wind float'
+1.51711,14.23,headlamps
+1.51736,12.78,'build wind float'
+1.51808,13.43,'build wind float'
+1.519,13.49,'build wind float'
+1.51778,13.21,'build wind float'
+1.51531,14.38,headlamps
+1.51869,13.19,'build wind float'
+1.51775,12.85,'build wind float'
+1.5172,13.38,'build wind float'
+1.51623,14.2,headlamps
+1.51618,13.53,'build wind float'
+1.51761,12.81,'build wind float'
